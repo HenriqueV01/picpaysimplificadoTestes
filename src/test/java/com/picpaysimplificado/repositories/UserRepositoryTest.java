@@ -10,5 +10,6 @@ class UserRepositoryTest {
 
     @Test
     void findUserByDocument() {
+        //teste
     }
 }
